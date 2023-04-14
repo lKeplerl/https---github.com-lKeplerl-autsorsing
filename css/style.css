@@ -793,7 +793,7 @@ input:-moz-placeholder {
 /* -------------section offers start------------- */
 
 .offers {
-    background-image: url(/images/offers_image.jpg);
+    background-image: url(../images/offers_image.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
